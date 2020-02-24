@@ -1,0 +1,4 @@
+/work/web-build/CMakeFiles/edit_cache.dir
+/work/web-build/CMakeFiles/rebuild_cache.dir
+/work/web-build/CMakeFiles/MedicalDemo1Wasm.dir
+/work/web-build/CMakeFiles/MedicalDemo1.dir
