@@ -6,3 +6,4 @@ This forked repository contains compiled versions of these examples:
 - GenerateModelsFromLabels
 - MedicalDemo1
 - FlyingEdges
+- GaussianRandomNumber
